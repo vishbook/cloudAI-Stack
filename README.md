@@ -29,7 +29,7 @@ CloudAI Stack is a comprehensive private cloud management platform similar to Op
 - **Express.js** for API server
 - **Drizzle ORM** for database operations
 - **OpenAI API** for AI-powered features
-- **In-memory storage** for rapid prototyping
+- **PostgreSQL DB** for persisting data
 
 ### Frontend
 - **React** with TypeScript
